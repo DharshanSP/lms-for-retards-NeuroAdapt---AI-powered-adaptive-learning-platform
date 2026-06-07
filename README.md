@@ -128,9 +128,6 @@ See [extension/README.md](extension/README.md) for detailed usage.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
